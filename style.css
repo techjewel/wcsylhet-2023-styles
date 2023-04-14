@@ -473,3 +473,7 @@ table.tix-ticket-form td {
 table.tix-ticket-form tr {
     border: 1px solid #e7e2cb;
 }
+
+body.single-post h1.wp-block-post-title {
+    display: block;
+}
