@@ -474,6 +474,6 @@ table.tix-ticket-form tr {
     border: 1px solid #e7e2cb;
 }
 
-body.single-post h1.wp-block-post-title {
+body.single-post h1.wp-block-post-title, body.single-wcb_sponsor h1.wp-block-post-title {
     display: block !important;
 }
