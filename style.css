@@ -476,4 +476,10 @@ table.tix-ticket-form tr {
 
 body.single-post h1.wp-block-post-title, body.single-wcb_sponsor h1.wp-block-post-title {
     display: block !important;
+	font-size: 42px;
+    text-align: center;
+}
+
+.single-post .wp-block-post-featured-image {
+    display: none;
 }
