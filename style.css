@@ -475,5 +475,5 @@ table.tix-ticket-form tr {
 }
 
 body.single-post h1.wp-block-post-title {
-    display: block;
+    display: block !important;
 }
