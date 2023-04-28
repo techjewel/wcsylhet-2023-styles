@@ -415,7 +415,7 @@ h1.wp-block-post-title {
     width: 100%;
 }
 
-td.tix-column-quantity select option:nth-child(n+3) {
+td.tix-column-quantity select option:nth-child(n+4) {
     display: none !important;
 }
 
