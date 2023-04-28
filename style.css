@@ -278,6 +278,7 @@ h1.wp-block-post-title {
 }
 
 
+
 .page-slug-tickets .wp-site-blocks > * + * {
     margin-block-start: 0rem;
 }
@@ -474,4 +475,12 @@ body.single-post h1.wp-block-post-title, body.single-wcb_sponsor h1.wp-block-pos
 
 .single-post .wp-block-post-featured-image {
     display: none;
+}
+
+@media only screen and (max-width: 769px) {
+
+	#tix-attendees .tix-columns-4 li {
+		width: 50%;
+	}	
+
 }
