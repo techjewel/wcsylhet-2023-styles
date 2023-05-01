@@ -484,3 +484,7 @@ body.single-post h1.wp-block-post-title, body.single-wcb_sponsor h1.wp-block-pos
 	}	
 
 }
+
+.slug-wpdeveloper img {
+    padding: 22px 0;
+}
