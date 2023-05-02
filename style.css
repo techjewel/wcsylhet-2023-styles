@@ -415,8 +415,8 @@ h1.wp-block-post-title {
     transition: background-color .3s ease;
     width: 100%;
 }
-
-td.tix-column-quantity select option:nth-child(n+4) {
+ 
+td.tix-column-quantity select option:nth-child(n+3) {
     display: none !important;
 }
 
